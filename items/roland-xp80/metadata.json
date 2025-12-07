@@ -1,8 +1,11 @@
 {
   "model": "XP-80",
-  "manufacturer": "Roland",
+  "manufacturer/publisher": "Roland",
   "keywords": ["PCM synthesis", "Music workstations", "1990s synthesizers"],
   "description": "Roland’s XP-80 is a 1996 workstation synthesizer known for its expandable sound architecture, onboard sequencer, and high-quality PCM waveforms. It became a studio and touring staple for many composers.",
   "year": "1996",
   "keyboard_subtype": "PCM workstation",
+  "manual_page_count": 250,
+  "file_format": ".pdf",
+  "source": "https://www.roland.com/us/support/by_product/xp-80/owners_manuals/"
 }

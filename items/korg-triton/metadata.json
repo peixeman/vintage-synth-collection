@@ -1,8 +1,11 @@
 {
   "model": "Triton",
-  "manufacturer": "Korg",
+  "manufacturer/publisher": "Korg",
   "keywords": ["PCM workstation synthesizers", "1990s music production", "Digital sampling"],
   "description": "A well-known workstation synth from 1999 that features rich PCM waveforms, sampling capability, arpeggiators, and sequencing. The Triton became a staple of early 2000s pop, hip-hop, and electronic music production.",
   "year": "1999",
   "keyboard_subtype": "PCM workstation",
+  "manual_page_count": 145,
+  "file_format": ".pdf",
+  "source": "https://www.korg.com/us/support/download/manual/1/214/2314/"
 }

@@ -1,8 +1,11 @@
 {
   "model": "DS-8",
-  "manufacturer": "Korg",
+  "manufacturer/publisher": "Korg",
   "keywords": ["FM synthesis", "Digital synthesizers", "1980s keyboards"],
   "description": "A 4-operator FM synthesizer released in 1987, notable for providing accessible FM programming and effects in an affordable package.",
   "year": "1987",
   "keyboard_subtype": "FM synthesizer",
+  "manual_page_count": 42,
+  "file_format": ".pdf",
+  "source": "https://www.korg.com/us/support/download/manual/1/360/3730/"
 }
