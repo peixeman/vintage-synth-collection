@@ -1,2 +1,5 @@
-# vintage-synth-collection
-Digital repository documenting FM &amp; hybrid synthesizers, predominantly from the 1980s
+# FM & Hybrid Synthesizers Repository
+
+Digital curation and preservation describe the process of selecting, organizing, describing, maintaining, and providing long-term access to digital materials. All kinds of documents and files, whether digital or physical, are created every day, and their longevity is not often guaranteed; for example, storage devices can fail, formats become obsolete, and information can easily be lost or forgotten. Digital curation helps to make sure that valuable resources persist into the future, even as technologies evolve and physical originals deteriorate or disappear.
+
+For this project, I chose to build a small, demo-scale repository focused on digitized versions of manuals for vintage and influential synthesizer keyboards. The manuals provide historical documentation and functional knowledge. They include instructions, patch programming guides, and operational diagrams. I selected this information setting because synthesizer documentation frequently exists in scattered archives or aging PDF scans, and many musicians and technologists rely on these manuals to maintain and operate old instruments and equipment.
